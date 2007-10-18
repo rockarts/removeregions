@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRegions", "src\app\RemoveRegions\RemoveRegions.csproj", "{29098EE2-63FF-4D89-B80F-766E1E2E8764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveRegions.Test", "src\test\RemoveRegions.Test\RemoveRegions.Test.csproj", "{3A01A5BC-32F6-4766-A6AB-42416F61117B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29098EE2-63FF-4D89-B80F-766E1E2E8764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29098EE2-63FF-4D89-B80F-766E1E2E8764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29098EE2-63FF-4D89-B80F-766E1E2E8764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29098EE2-63FF-4D89-B80F-766E1E2E8764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A01A5BC-32F6-4766-A6AB-42416F61117B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A01A5BC-32F6-4766-A6AB-42416F61117B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A01A5BC-32F6-4766-A6AB-42416F61117B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A01A5BC-32F6-4766-A6AB-42416F61117B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
