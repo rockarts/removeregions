@@ -1,0 +1,1 @@
+Remove Regions is a Visual Studio Add-In that Quickly Removes Regions so you can quickly see the code you need to work on.
